@@ -1,0 +1,801 @@
+atribuicao_id,pedido_id,campanha_id,modelo_atribuicao
+1,456,46,Linear
+2,1671,48,Primeiro clique
+3,1549,31,Último clique
+4,1884,1,Linear
+5,1466,40,Primeiro clique
+6,990,38,Primeiro clique
+7,1280,34,Primeiro clique
+8,1322,21,Primeiro clique
+9,1890,15,Primeiro clique
+10,1427,26,Primeiro clique
+11,1910,5,Último clique
+12,1871,45,Linear
+13,773,37,Linear
+14,1029,10,Primeiro clique
+15,525,48,Linear
+16,505,21,Linear
+17,1448,7,Último clique
+18,698,29,Último clique
+19,1915,10,Último clique
+20,1076,12,Primeiro clique
+21,1958,30,Primeiro clique
+22,191,3,Primeiro clique
+23,422,10,Linear
+24,1469,1,Último clique
+25,1548,21,Linear
+26,381,1,Linear
+27,1834,23,Primeiro clique
+28,306,26,Primeiro clique
+29,1,20,Linear
+30,225,14,Primeiro clique
+31,1344,16,Último clique
+32,1493,17,Último clique
+33,4,13,Último clique
+34,129,21,Linear
+35,1251,25,Primeiro clique
+36,1578,30,Primeiro clique
+37,1024,6,Linear
+38,536,17,Linear
+39,500,22,Primeiro clique
+40,277,24,Linear
+41,1701,44,Primeiro clique
+42,18,5,Primeiro clique
+43,1708,24,Primeiro clique
+44,3,16,Último clique
+45,157,35,Último clique
+46,386,42,Linear
+47,433,33,Último clique
+48,856,18,Linear
+49,454,23,Linear
+50,1626,23,Primeiro clique
+51,994,45,Último clique
+52,169,10,Linear
+53,568,16,Linear
+54,430,30,Primeiro clique
+55,151,32,Primeiro clique
+56,1328,10,Linear
+57,295,13,Primeiro clique
+58,43,8,Último clique
+59,1770,49,Último clique
+60,482,15,Linear
+61,1126,18,Primeiro clique
+62,810,48,Primeiro clique
+63,1492,24,Linear
+64,1757,22,Primeiro clique
+65,672,40,Primeiro clique
+66,1172,21,Último clique
+67,958,23,Primeiro clique
+68,1672,33,Último clique
+69,600,10,Primeiro clique
+70,647,31,Último clique
+71,1086,29,Último clique
+72,959,25,Primeiro clique
+73,410,4,Linear
+74,1554,40,Primeiro clique
+75,230,18,Último clique
+76,495,21,Linear
+77,697,29,Linear
+78,169,9,Primeiro clique
+79,1207,14,Primeiro clique
+80,1484,18,Último clique
+81,1074,19,Linear
+82,536,9,Linear
+83,8,18,Primeiro clique
+84,905,34,Primeiro clique
+85,9,10,Primeiro clique
+86,275,37,Primeiro clique
+87,1078,12,Linear
+88,115,32,Primeiro clique
+89,1598,46,Linear
+90,1664,40,Primeiro clique
+91,1168,29,Último clique
+92,1122,6,Linear
+93,193,1,Último clique
+94,1839,19,Linear
+95,1404,10,Último clique
+96,1149,1,Linear
+97,1519,30,Linear
+98,340,44,Linear
+99,690,5,Linear
+100,381,44,Último clique
+101,1180,36,Linear
+102,540,17,Primeiro clique
+103,213,1,Linear
+104,230,12,Linear
+105,1227,14,Primeiro clique
+106,1880,34,Primeiro clique
+107,268,17,Linear
+108,1818,9,Último clique
+109,742,5,Primeiro clique
+110,1724,9,Linear
+111,1161,46,Linear
+112,1646,30,Linear
+113,836,41,Primeiro clique
+114,1156,35,Primeiro clique
+115,944,18,Primeiro clique
+116,1231,44,Linear
+117,942,21,Último clique
+118,676,3,Linear
+119,1226,14,Último clique
+120,1884,11,Último clique
+121,1767,25,Primeiro clique
+122,842,37,Primeiro clique
+123,1066,10,Linear
+124,1808,46,Linear
+125,526,21,Primeiro clique
+126,884,16,Linear
+127,1199,38,Último clique
+128,1412,32,Linear
+129,164,4,Linear
+130,1447,1,Linear
+131,1728,10,Último clique
+132,828,8,Primeiro clique
+133,170,32,Primeiro clique
+134,554,3,Primeiro clique
+135,1015,48,Último clique
+136,264,31,Primeiro clique
+137,1751,23,Primeiro clique
+138,1254,37,Primeiro clique
+139,1148,8,Último clique
+140,1535,49,Linear
+141,626,46,Último clique
+142,425,42,Último clique
+143,1488,29,Último clique
+144,1563,48,Último clique
+145,557,33,Último clique
+146,1944,25,Primeiro clique
+147,1814,48,Último clique
+148,1243,2,Linear
+149,920,5,Último clique
+150,1163,14,Último clique
+151,848,35,Linear
+152,240,14,Último clique
+153,437,39,Linear
+154,1052,19,Linear
+155,523,16,Primeiro clique
+156,1204,18,Linear
+157,340,2,Último clique
+158,545,3,Primeiro clique
+159,1799,7,Linear
+160,266,41,Último clique
+161,893,12,Primeiro clique
+162,1511,16,Último clique
+163,1709,18,Linear
+164,176,35,Último clique
+165,746,32,Linear
+166,1013,10,Linear
+167,643,33,Linear
+168,645,16,Primeiro clique
+169,230,23,Último clique
+170,1537,30,Último clique
+171,164,46,Último clique
+172,780,8,Último clique
+173,799,1,Linear
+174,1193,9,Último clique
+175,1498,33,Linear
+176,226,16,Linear
+177,877,4,Primeiro clique
+178,807,42,Linear
+179,1133,7,Primeiro clique
+180,208,30,Último clique
+181,1496,3,Primeiro clique
+182,1003,7,Linear
+183,1508,26,Primeiro clique
+184,1527,40,Último clique
+185,901,24,Último clique
+186,321,16,Último clique
+187,1386,34,Último clique
+188,1941,50,Último clique
+189,1738,8,Último clique
+190,648,48,Linear
+191,660,31,Linear
+192,803,21,Linear
+193,1528,11,Último clique
+194,94,30,Último clique
+195,1330,30,Primeiro clique
+196,1581,11,Primeiro clique
+197,1581,38,Linear
+198,431,12,Último clique
+199,1692,26,Último clique
+200,1307,42,Linear
+201,1886,28,Linear
+202,438,9,Linear
+203,1573,10,Primeiro clique
+204,803,15,Último clique
+205,147,32,Primeiro clique
+206,1983,12,Último clique
+207,437,17,Primeiro clique
+208,362,47,Linear
+209,1321,9,Linear
+210,1783,18,Último clique
+211,1982,29,Linear
+212,102,7,Linear
+213,1156,25,Último clique
+214,1475,13,Primeiro clique
+215,1738,49,Último clique
+216,375,37,Linear
+217,1099,12,Último clique
+218,45,45,Último clique
+219,412,35,Primeiro clique
+220,488,22,Primeiro clique
+221,324,15,Linear
+222,946,7,Primeiro clique
+223,167,38,Último clique
+224,1411,6,Linear
+225,1570,45,Último clique
+226,879,37,Primeiro clique
+227,1237,49,Primeiro clique
+228,537,6,Linear
+229,813,50,Linear
+230,67,19,Linear
+231,1873,33,Linear
+232,1233,5,Linear
+233,1534,47,Último clique
+234,599,33,Último clique
+235,1169,21,Primeiro clique
+236,597,15,Último clique
+237,463,27,Linear
+238,1139,30,Primeiro clique
+239,761,5,Primeiro clique
+240,786,23,Último clique
+241,1334,46,Primeiro clique
+242,1687,41,Linear
+243,1809,21,Linear
+244,77,1,Primeiro clique
+245,384,9,Linear
+246,818,34,Primeiro clique
+247,571,32,Linear
+248,1039,48,Primeiro clique
+249,1835,6,Último clique
+250,181,23,Último clique
+251,953,39,Linear
+252,1939,16,Primeiro clique
+253,844,17,Último clique
+254,1689,14,Linear
+255,366,15,Último clique
+256,970,47,Primeiro clique
+257,1463,42,Linear
+258,1341,4,Linear
+259,1719,38,Último clique
+260,888,42,Primeiro clique
+261,333,26,Primeiro clique
+262,1346,6,Linear
+263,1713,26,Linear
+264,1134,32,Linear
+265,530,19,Primeiro clique
+266,354,50,Primeiro clique
+267,308,44,Último clique
+268,162,38,Último clique
+269,1664,45,Último clique
+270,405,23,Linear
+271,683,10,Linear
+272,457,46,Último clique
+273,787,40,Linear
+274,1162,14,Primeiro clique
+275,34,10,Primeiro clique
+276,1230,29,Primeiro clique
+277,564,9,Último clique
+278,1472,22,Último clique
+279,264,4,Primeiro clique
+280,741,25,Primeiro clique
+281,417,47,Linear
+282,1122,17,Último clique
+283,144,50,Primeiro clique
+284,1984,34,Primeiro clique
+285,1741,47,Último clique
+286,1383,40,Primeiro clique
+287,539,5,Último clique
+288,1447,17,Linear
+289,1953,14,Linear
+290,737,9,Primeiro clique
+291,1540,39,Último clique
+292,1125,47,Último clique
+293,985,25,Último clique
+294,587,45,Último clique
+295,907,50,Linear
+296,406,28,Primeiro clique
+297,590,46,Último clique
+298,1191,1,Linear
+299,386,38,Último clique
+300,354,6,Último clique
+301,11,4,Último clique
+302,824,44,Primeiro clique
+303,237,18,Último clique
+304,1477,35,Último clique
+305,1331,16,Último clique
+306,731,5,Primeiro clique
+307,210,4,Primeiro clique
+308,992,37,Último clique
+309,835,11,Linear
+310,952,16,Último clique
+311,114,23,Primeiro clique
+312,471,4,Linear
+313,896,21,Linear
+314,456,34,Primeiro clique
+315,814,50,Último clique
+316,1146,26,Primeiro clique
+317,586,44,Primeiro clique
+318,1607,39,Linear
+319,1948,27,Primeiro clique
+320,1702,12,Linear
+321,1048,20,Último clique
+322,760,45,Primeiro clique
+323,1240,36,Último clique
+324,1629,45,Primeiro clique
+325,920,37,Linear
+326,551,40,Linear
+327,1155,24,Linear
+328,1892,19,Primeiro clique
+329,102,18,Último clique
+330,239,43,Linear
+331,1818,6,Último clique
+332,1935,15,Linear
+333,1476,38,Primeiro clique
+334,1356,37,Linear
+335,1093,25,Último clique
+336,249,50,Último clique
+337,1042,34,Último clique
+338,1860,33,Primeiro clique
+339,1667,27,Primeiro clique
+340,486,9,Primeiro clique
+341,1535,33,Último clique
+342,913,41,Primeiro clique
+343,857,17,Último clique
+344,983,36,Linear
+345,1396,48,Último clique
+346,585,3,Linear
+347,1641,30,Linear
+348,1206,40,Último clique
+349,1924,16,Linear
+350,598,21,Primeiro clique
+351,1720,43,Linear
+352,1639,39,Linear
+353,541,9,Primeiro clique
+354,1147,45,Primeiro clique
+355,1970,6,Linear
+356,1917,30,Linear
+357,1010,46,Linear
+358,1599,46,Primeiro clique
+359,1676,24,Último clique
+360,1198,10,Linear
+361,1758,34,Último clique
+362,1234,41,Último clique
+363,1680,39,Linear
+364,487,32,Último clique
+365,1310,26,Primeiro clique
+366,1197,28,Primeiro clique
+367,1963,5,Primeiro clique
+368,917,3,Linear
+369,1622,7,Último clique
+370,1136,22,Primeiro clique
+371,1177,30,Último clique
+372,1630,28,Primeiro clique
+373,1478,24,Linear
+374,377,25,Linear
+375,1325,34,Linear
+376,569,27,Último clique
+377,285,45,Último clique
+378,135,8,Último clique
+379,285,43,Primeiro clique
+380,879,32,Linear
+381,1339,40,Linear
+382,1651,47,Primeiro clique
+383,777,45,Primeiro clique
+384,1745,14,Último clique
+385,1842,2,Linear
+386,21,40,Último clique
+387,789,24,Primeiro clique
+388,379,43,Linear
+389,1326,3,Linear
+390,145,1,Linear
+391,915,28,Linear
+392,345,26,Último clique
+393,353,25,Último clique
+394,1565,27,Último clique
+395,1529,10,Linear
+396,473,40,Linear
+397,693,24,Linear
+398,944,32,Linear
+399,862,45,Primeiro clique
+400,1031,11,Primeiro clique
+401,766,1,Linear
+402,1314,45,Primeiro clique
+403,1949,2,Último clique
+404,1193,15,Último clique
+405,249,8,Primeiro clique
+406,137,13,Último clique
+407,561,26,Primeiro clique
+408,97,34,Último clique
+409,229,24,Linear
+410,690,1,Primeiro clique
+411,517,5,Primeiro clique
+412,165,41,Primeiro clique
+413,734,41,Linear
+414,335,19,Primeiro clique
+415,1635,12,Último clique
+416,1632,9,Primeiro clique
+417,1697,2,Linear
+418,271,8,Linear
+419,1814,43,Linear
+420,1601,10,Primeiro clique
+421,308,29,Linear
+422,1585,23,Último clique
+423,34,27,Primeiro clique
+424,933,47,Primeiro clique
+425,1738,37,Linear
+426,708,16,Último clique
+427,785,43,Último clique
+428,52,32,Último clique
+429,496,13,Primeiro clique
+430,195,6,Linear
+431,635,23,Linear
+432,620,36,Linear
+433,828,24,Primeiro clique
+434,569,11,Último clique
+435,1842,30,Primeiro clique
+436,1975,15,Primeiro clique
+437,897,17,Primeiro clique
+438,212,30,Último clique
+439,1232,22,Último clique
+440,565,15,Primeiro clique
+441,1748,3,Linear
+442,1651,21,Linear
+443,1019,38,Primeiro clique
+444,197,47,Linear
+445,942,46,Último clique
+446,1337,9,Linear
+447,310,46,Primeiro clique
+448,1383,44,Primeiro clique
+449,1771,15,Linear
+450,1035,22,Linear
+451,1528,36,Último clique
+452,792,33,Último clique
+453,330,48,Último clique
+454,1125,21,Último clique
+455,720,22,Linear
+456,1915,7,Primeiro clique
+457,379,27,Primeiro clique
+458,1742,5,Linear
+459,243,24,Linear
+460,521,2,Primeiro clique
+461,223,22,Primeiro clique
+462,856,6,Linear
+463,1125,26,Linear
+464,1034,49,Primeiro clique
+465,535,3,Último clique
+466,1342,4,Último clique
+467,579,46,Último clique
+468,878,48,Primeiro clique
+469,1922,44,Primeiro clique
+470,538,13,Linear
+471,114,37,Linear
+472,231,19,Linear
+473,821,34,Primeiro clique
+474,255,45,Primeiro clique
+475,1477,38,Linear
+476,1207,49,Último clique
+477,1320,44,Linear
+478,1109,8,Último clique
+479,1718,10,Linear
+480,1639,21,Último clique
+481,556,19,Primeiro clique
+482,970,50,Último clique
+483,1607,11,Linear
+484,655,9,Linear
+485,1356,46,Último clique
+486,1625,44,Primeiro clique
+487,1938,20,Linear
+488,839,47,Linear
+489,707,45,Primeiro clique
+490,530,38,Linear
+491,1309,10,Primeiro clique
+492,1786,1,Linear
+493,679,29,Linear
+494,1078,31,Último clique
+495,57,43,Linear
+496,1037,26,Primeiro clique
+497,205,20,Último clique
+498,965,50,Primeiro clique
+499,1790,6,Último clique
+500,1267,48,Último clique
+501,1943,31,Linear
+502,646,12,Último clique
+503,281,17,Primeiro clique
+504,1614,48,Último clique
+505,1244,24,Último clique
+506,467,6,Linear
+507,1422,19,Linear
+508,756,49,Último clique
+509,1262,41,Último clique
+510,783,46,Primeiro clique
+511,576,34,Linear
+512,1016,3,Primeiro clique
+513,917,38,Último clique
+514,116,17,Primeiro clique
+515,1039,19,Linear
+516,1370,4,Primeiro clique
+517,1617,13,Linear
+518,1810,9,Linear
+519,1461,30,Primeiro clique
+520,1892,4,Último clique
+521,1723,24,Último clique
+522,1896,15,Linear
+523,1501,9,Primeiro clique
+524,1565,20,Primeiro clique
+525,1875,50,Primeiro clique
+526,994,31,Linear
+527,114,32,Último clique
+528,438,7,Último clique
+529,1982,36,Último clique
+530,1503,5,Linear
+531,74,2,Último clique
+532,53,9,Linear
+533,1872,26,Primeiro clique
+534,1209,17,Último clique
+535,1956,32,Primeiro clique
+536,1542,30,Último clique
+537,1884,5,Último clique
+538,185,43,Último clique
+539,818,20,Linear
+540,836,50,Último clique
+541,1506,48,Linear
+542,1749,6,Último clique
+543,1665,8,Primeiro clique
+544,740,32,Linear
+545,1040,12,Último clique
+546,1888,26,Primeiro clique
+547,1797,20,Último clique
+548,1168,40,Último clique
+549,505,40,Último clique
+550,229,13,Último clique
+551,1286,24,Linear
+552,1053,34,Primeiro clique
+553,1896,8,Primeiro clique
+554,323,16,Linear
+555,1450,21,Linear
+556,1684,22,Primeiro clique
+557,1973,31,Último clique
+558,999,21,Linear
+559,1525,11,Último clique
+560,133,21,Último clique
+561,1193,44,Último clique
+562,590,24,Linear
+563,1867,17,Último clique
+564,694,5,Linear
+565,628,11,Linear
+566,1510,8,Último clique
+567,1274,6,Último clique
+568,131,9,Linear
+569,486,29,Último clique
+570,1177,39,Primeiro clique
+571,867,6,Primeiro clique
+572,1297,6,Linear
+573,675,20,Linear
+574,1484,27,Último clique
+575,1768,15,Primeiro clique
+576,1561,24,Primeiro clique
+577,1090,8,Primeiro clique
+578,1564,34,Primeiro clique
+579,820,25,Primeiro clique
+580,1749,3,Linear
+581,1476,12,Primeiro clique
+582,708,29,Linear
+583,1811,50,Último clique
+584,780,9,Último clique
+585,667,19,Primeiro clique
+586,784,42,Linear
+587,1101,25,Linear
+588,930,34,Linear
+589,236,29,Último clique
+590,333,23,Linear
+591,1229,38,Linear
+592,1656,19,Último clique
+593,605,48,Linear
+594,1427,15,Último clique
+595,522,50,Último clique
+596,146,10,Último clique
+597,1536,13,Primeiro clique
+598,952,38,Último clique
+599,520,5,Primeiro clique
+600,949,45,Linear
+601,1328,16,Primeiro clique
+602,98,28,Primeiro clique
+603,250,30,Último clique
+604,1480,9,Último clique
+605,846,11,Linear
+606,292,25,Primeiro clique
+607,1627,37,Último clique
+608,1404,18,Último clique
+609,1643,12,Primeiro clique
+610,117,2,Primeiro clique
+611,569,1,Último clique
+612,342,17,Linear
+613,47,24,Último clique
+614,68,37,Linear
+615,1434,36,Último clique
+616,1550,29,Primeiro clique
+617,136,44,Linear
+618,943,20,Linear
+619,1500,46,Linear
+620,1057,46,Último clique
+621,1622,8,Linear
+622,1486,8,Primeiro clique
+623,1289,48,Último clique
+624,1816,22,Primeiro clique
+625,1568,25,Último clique
+626,1739,9,Primeiro clique
+627,1702,17,Último clique
+628,975,17,Primeiro clique
+629,488,23,Primeiro clique
+630,1328,24,Primeiro clique
+631,1266,42,Linear
+632,774,3,Linear
+633,1554,15,Primeiro clique
+634,1215,45,Último clique
+635,1214,2,Último clique
+636,1528,37,Linear
+637,1736,10,Primeiro clique
+638,1506,31,Linear
+639,1574,13,Último clique
+640,1280,13,Linear
+641,1305,27,Linear
+642,1675,4,Último clique
+643,1437,20,Primeiro clique
+644,923,18,Linear
+645,1413,48,Linear
+646,703,1,Primeiro clique
+647,1929,43,Último clique
+648,484,33,Primeiro clique
+649,1175,47,Linear
+650,1549,43,Último clique
+651,228,18,Primeiro clique
+652,124,26,Linear
+653,763,16,Linear
+654,1915,43,Último clique
+655,40,34,Primeiro clique
+656,1237,44,Último clique
+657,1964,13,Último clique
+658,1673,1,Primeiro clique
+659,1214,44,Linear
+660,1979,38,Primeiro clique
+661,130,8,Linear
+662,1113,37,Linear
+663,65,28,Último clique
+664,1736,48,Último clique
+665,736,19,Último clique
+666,672,25,Linear
+667,277,21,Primeiro clique
+668,1975,38,Último clique
+669,22,19,Linear
+670,634,40,Primeiro clique
+671,322,15,Primeiro clique
+672,766,23,Primeiro clique
+673,570,31,Linear
+674,1835,35,Último clique
+675,1162,35,Primeiro clique
+676,321,8,Último clique
+677,1790,12,Primeiro clique
+678,301,30,Primeiro clique
+679,683,42,Linear
+680,44,18,Linear
+681,1719,45,Último clique
+682,10,31,Primeiro clique
+683,363,31,Primeiro clique
+684,101,46,Linear
+685,264,47,Primeiro clique
+686,900,11,Linear
+687,1143,25,Linear
+688,1529,18,Último clique
+689,1698,16,Linear
+690,696,44,Primeiro clique
+691,538,50,Linear
+692,925,7,Último clique
+693,59,15,Primeiro clique
+694,968,17,Último clique
+695,639,12,Último clique
+696,1206,11,Linear
+697,127,10,Último clique
+698,275,29,Primeiro clique
+699,8,32,Linear
+700,1279,48,Primeiro clique
+701,1548,18,Primeiro clique
+702,1106,21,Linear
+703,1421,42,Último clique
+704,243,28,Linear
+705,1218,14,Último clique
+706,1902,28,Último clique
+707,1683,48,Último clique
+708,983,47,Último clique
+709,1934,16,Primeiro clique
+710,224,13,Linear
+711,1432,30,Último clique
+712,1865,48,Linear
+713,1134,37,Primeiro clique
+714,881,19,Linear
+715,634,18,Primeiro clique
+716,74,6,Último clique
+717,162,26,Primeiro clique
+718,1134,29,Último clique
+719,76,20,Último clique
+720,1166,37,Linear
+721,1877,12,Linear
+722,876,50,Linear
+723,1111,40,Primeiro clique
+724,769,28,Primeiro clique
+725,1127,18,Primeiro clique
+726,913,6,Último clique
+727,367,2,Último clique
+728,865,9,Primeiro clique
+729,1487,30,Último clique
+730,1347,12,Primeiro clique
+731,1176,5,Último clique
+732,17,39,Último clique
+733,166,49,Linear
+734,1017,2,Último clique
+735,1931,38,Último clique
+736,922,8,Primeiro clique
+737,1805,49,Primeiro clique
+738,1835,49,Último clique
+739,844,6,Primeiro clique
+740,953,11,Primeiro clique
+741,1936,31,Último clique
+742,847,10,Último clique
+743,1973,37,Primeiro clique
+744,1939,48,Primeiro clique
+745,19,22,Último clique
+746,165,33,Linear
+747,327,9,Linear
+748,1421,36,Último clique
+749,261,23,Linear
+750,1524,47,Primeiro clique
+751,1105,31,Último clique
+752,1120,21,Primeiro clique
+753,1974,3,Último clique
+754,587,11,Primeiro clique
+755,1955,30,Último clique
+756,192,25,Linear
+757,775,28,Último clique
+758,1430,45,Último clique
+759,901,25,Primeiro clique
+760,1416,17,Último clique
+761,1614,23,Último clique
+762,157,36,Linear
+763,989,45,Último clique
+764,169,49,Linear
+765,1322,39,Primeiro clique
+766,1758,2,Primeiro clique
+767,92,11,Linear
+768,1782,12,Primeiro clique
+769,342,4,Linear
+770,1432,21,Primeiro clique
+771,100,38,Primeiro clique
+772,280,5,Primeiro clique
+773,995,2,Último clique
+774,1026,35,Último clique
+775,1320,35,Primeiro clique
+776,1225,26,Último clique
+777,1172,14,Último clique
+778,1997,41,Primeiro clique
+779,1349,23,Primeiro clique
+780,179,33,Último clique
+781,1996,13,Linear
+782,20,25,Primeiro clique
+783,620,18,Linear
+784,592,21,Último clique
+785,1638,38,Primeiro clique
+786,1091,50,Linear
+787,1299,25,Linear
+788,1371,50,Linear
+789,696,12,Linear
+790,849,31,Último clique
+791,919,12,Primeiro clique
+792,779,31,Primeiro clique
+793,1444,3,Primeiro clique
+794,1332,34,Primeiro clique
+795,489,27,Primeiro clique
+796,597,47,Primeiro clique
+797,892,21,Linear
+798,573,21,Último clique
+799,187,1,Último clique
+800,1109,29,Último clique

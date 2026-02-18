@@ -1,0 +1,531 @@
+cliente_id,nome,email,telefone,estado,canal_aquisicao,data_cadastro,fonte_crm
+1,Cliente_1,cliente1@email.com,11986877332,RJ,Indicação,2023-10-03,HubSpot
+2,Cliente_2,cliente2@email.com,11961030298,CE,Orgânico,2024-12-14,Planilha
+3,Cliente_3,cliente3@email.com,11987234987,PR,Facebook Ads,2023-08-16,ERP
+4,Cliente_4,cliente4@email.com,11918115034,MG,Marketplace,2023-12-21,Planilha
+5,Cliente_5,cliente5@email.com,11931672262,SP,Indicação,2024-11-22,ERP
+6,Cliente_6,cliente6@email.com,11968692799,SP,Google Ads,2024-05-29,Planilha
+7,Cliente_7,cliente7@email.com,11940332736,SP,Loja Física,2024-01-16,Planilha
+8,Cliente_8,cliente8@email.com,11953192476,BA,Marketplace,2024-08-24,ERP
+9,Cliente_9,cliente9@email.com,11956801693,MG,Loja Física,2024-09-16,HubSpot
+10,Cliente_10,cliente10@email.com,11997330680,PR,Marketplace,2024-04-29,HubSpot
+11,Cliente_11,cliente11@email.com,11956377687,SP,Indicação,2023-12-25,HubSpot
+12,Cliente_12,cliente12@email.com,11968167780,CE,Facebook Ads,2024-02-19,ERP
+13,Cliente_13,cliente13@email.com,11984387069,BA,Loja Física,2024-03-24,ERP
+14,Cliente_14,cliente14@email.com,11960776272,SP,Marketplace,2023-05-28,HubSpot
+15,Cliente_15,cliente15@email.com,11994671393,SP,Google Ads,2024-02-16,Planilha
+16,Cliente_16,cliente16@email.com,11920791295,SP,Google Ads,2024-11-13,ERP
+17,Cliente_17,cliente17@email.com,11960840301,SP,Facebook Ads,2023-05-29,HubSpot
+18,Cliente_18,cliente18@email.com,11969434650,MG,Marketplace,2023-02-22,Planilha
+19,Cliente_19,cliente19@email.com,11929737391,RJ,Loja Física,2023-10-23,ERP
+20,Cliente_20,cliente20@email.com,11945019524,SP,Google Ads,2023-12-06,HubSpot
+21,Cliente_21,cliente21@email.com,11990998238,MG,Orgânico,2024-04-22,Planilha
+22,Cliente_22,cliente22@email.com,11947753496,SP,Facebook Ads,2023-11-28,HubSpot
+23,Cliente_23,cliente23@email.com,11942045405,SP,Loja Física,2024-10-10,ERP
+24,Cliente_24,cliente24@email.com,11981686749,RJ,Marketplace,2023-04-11,ERP
+25,Cliente_25,cliente25@email.com,11978246828,RJ,Marketplace,2024-03-30,ERP
+26,Cliente_26,cliente26@email.com,11988791497,SC,Orgânico,2024-06-11,HubSpot
+27,Cliente_27,cliente27@email.com,11913641350,SP,Facebook Ads,2024-04-06,ERP
+28,Cliente_28,cliente28@email.com,11911396361,MG,Facebook Ads,2023-11-20,ERP
+29,Cliente_29,cliente29@email.com,11957097014,MG,Google Ads,2024-06-30,HubSpot
+30,Cliente_30,cliente30@email.com,11921828189,SP,Marketplace,2024-03-09,ERP
+31,Cliente_31,cliente31@email.com,11965719797,MG,Marketplace,2024-08-10,HubSpot
+32,Cliente_32,cliente32@email.com,11949397363,SP,Loja Física,2024-01-31,Planilha
+33,Cliente_33,cliente33@email.com,11937467410,SP,Loja Física,2023-03-27,HubSpot
+34,Cliente_34,cliente34@email.com,11910121321,CE,Orgânico,2024-12-10,HubSpot
+35,Cliente_35,cliente35@email.com,11938897757,CE,Marketplace,2023-12-02,HubSpot
+36,Cliente_36,cliente36@email.com,11995548319,SC,Loja Física,2023-01-03,Planilha
+37,Cliente_37,cliente37@email.com,11974128950,SP,Marketplace,2024-11-08,HubSpot
+38,Cliente_38,cliente38@email.com,11971605879,SP,Google Ads,2024-06-16,Planilha
+39,Cliente_39,cliente39@email.com,11961591775,RS,Orgânico,2023-11-15,HubSpot
+40,Cliente_40,cliente40@email.com,11981606399,RJ,Google Ads,2024-01-28,HubSpot
+41,Cliente_41,cliente41@email.com,11936977970,SP,Loja Física,2024-10-18,Planilha
+42,Cliente_42,cliente42@email.com,11954699112,RJ,Indicação,2024-05-28,Planilha
+43,Cliente_43,cliente43@email.com,11910445333,SP,Google Ads,2023-10-24,HubSpot
+44,Cliente_44,cliente44@email.com,11976721560,PE,Indicação,2024-03-29,Planilha
+45,Cliente_45,cliente45@email.com,11918901147,SP,Indicação,2023-09-12,ERP
+46,Cliente_46,cliente46@email.com,11955558403,RS,Facebook Ads,2024-05-05,Planilha
+47,Cliente_47,cliente47@email.com,11959636617,SP,Google Ads,2023-03-17,HubSpot
+48,Cliente_48,cliente48@email.com,11918593222,MG,Indicação,2023-03-25,HubSpot
+49,Cliente_49,cliente49@email.com,11996440608,MG,Orgânico,2023-09-12,ERP
+50,Cliente_50,cliente50@email.com,11911380625,SP,Marketplace,2023-04-30,HubSpot
+51,Cliente_51,cliente51@email.com,11984152872,CE,Orgânico,2024-08-22,ERP
+52,Cliente_52,cliente52@email.com,11982776085,SC,Marketplace,2024-08-07,Planilha
+53,Cliente_53,cliente53@email.com,11944360127,PE,Orgânico,2024-07-21,ERP
+54,Cliente_54,cliente54@email.com,11935590129,PE,Orgânico,2023-06-27,Planilha
+55,Cliente_55,cliente55@email.com,11986991557,MG,Marketplace,2023-10-20,ERP
+56,Cliente_56,cliente56@email.com,11996221916,PE,Facebook Ads,2023-05-16,HubSpot
+57,Cliente_57,cliente57@email.com,11962048178,SP,Google Ads,2024-04-07,Planilha
+58,Cliente_58,cliente58@email.com,11942688762,SP,Google Ads,2023-08-21,HubSpot
+59,Cliente_59,cliente59@email.com,11964844631,SP,Marketplace,2024-11-26,HubSpot
+60,Cliente_60,cliente60@email.com,11948141372,SP,Indicação,2024-10-01,Planilha
+61,Cliente_61,cliente61@email.com,11918070765,RJ,Marketplace,2024-07-21,ERP
+62,Cliente_62,cliente62@email.com,11925600834,SP,Google Ads,2023-10-09,ERP
+63,Cliente_63,cliente63@email.com,11957140217,SC,Google Ads,2023-06-12,Planilha
+64,Cliente_64,cliente64@email.com,11927266829,RJ,Google Ads,2024-07-19,HubSpot
+65,Cliente_65,cliente65@email.com,11962482847,SP,Facebook Ads,2024-06-10,HubSpot
+66,Cliente_66,cliente66@email.com,11983873936,MG,Orgânico,2024-11-23,Planilha
+67,Cliente_67,cliente67@email.com,11940993473,SP,Facebook Ads,2024-03-01,HubSpot
+68,Cliente_68,cliente68@email.com,11968333578,SC,Facebook Ads,2023-06-27,HubSpot
+69,Cliente_69,cliente69@email.com,11968330451,SP,Loja Física,2024-08-28,HubSpot
+70,Cliente_70,cliente70@email.com,11922738466,DF,Facebook Ads,2024-07-10,HubSpot
+71,Cliente_71,cliente71@email.com,11966290071,SC,Orgânico,2024-06-12,HubSpot
+72,Cliente_72,cliente72@email.com,11992272480,SP,Marketplace,2023-01-06,HubSpot
+73,Cliente_73,cliente73@email.com,11950854089,SP,Facebook Ads,2023-09-08,HubSpot
+74,Cliente_74,cliente74@email.com,11971588377,SC,Indicação,2023-03-19,HubSpot
+75,Cliente_75,cliente75@email.com,11998638662,PR,Marketplace,2024-05-16,ERP
+76,Cliente_76,cliente76@email.com,11984430949,PR,Loja Física,2024-07-17,HubSpot
+77,Cliente_77,cliente77@email.com,11989670812,SC,Google Ads,2023-10-05,HubSpot
+78,Cliente_78,cliente78@email.com,11943375431,SP,Loja Física,2023-12-11,Planilha
+79,Cliente_79,cliente79@email.com,11913642964,RJ,Orgânico,2023-04-25,HubSpot
+80,Cliente_80,cliente80@email.com,11940056329,SP,Facebook Ads,2024-08-20,ERP
+81,Cliente_81,cliente81@email.com,11982206980,BA,Orgânico,2023-08-06,Planilha
+82,Cliente_82,cliente82@email.com,11971738758,RS,Loja Física,2024-04-24,HubSpot
+83,Cliente_83,cliente83@email.com,11926117186,SP,Orgânico,2023-07-31,HubSpot
+84,Cliente_84,cliente84@email.com,11988012617,SP,Facebook Ads,2024-04-20,ERP
+85,Cliente_85,cliente85@email.com,11993223634,SP,Indicação,2024-07-30,ERP
+86,Cliente_86,cliente86@email.com,11952495616,SP,Google Ads,2023-01-08,HubSpot
+87,Cliente_87,cliente87@email.com,11938669057,PR,Google Ads,2023-08-24,Planilha
+88,Cliente_88,cliente88@email.com,11987929504,RS,Google Ads,2023-02-03,HubSpot
+89,Cliente_89,cliente89@email.com,11976940452,BA,Google Ads,2024-06-28,ERP
+90,Cliente_90,cliente90@email.com,11961030998,RJ,Google Ads,2023-02-08,HubSpot
+91,Cliente_91,cliente91@email.com,11982342744,SP,Google Ads,2024-09-21,ERP
+92,Cliente_92,cliente92@email.com,11936774158,PR,Indicação,2024-10-20,Planilha
+93,Cliente_93,cliente93@email.com,11952000015,PR,Google Ads,2023-07-02,Planilha
+94,Cliente_94,cliente94@email.com,11985577054,MG,Facebook Ads,2024-07-01,Planilha
+95,Cliente_95,cliente95@email.com,11958398229,SC,Marketplace,2024-10-03,HubSpot
+96,Cliente_96,cliente96@email.com,11957141275,RJ,Orgânico,2023-02-26,HubSpot
+97,Cliente_97,cliente97@email.com,11916959950,MG,Indicação,2024-10-08,HubSpot
+98,Cliente_98,cliente98@email.com,11926007308,RJ,Google Ads,2024-02-24,HubSpot
+99,Cliente_99,cliente99@email.com,11952656561,SP,Google Ads,2024-02-03,Planilha
+100,Cliente_100,cliente100@email.com,11917792602,SP,Google Ads,2023-05-29,HubSpot
+101,Cliente_101,cliente101@email.com,11929710369,SP,Google Ads,2024-03-15,HubSpot
+102,Cliente_102,cliente102@email.com,11966268884,RS,Facebook Ads,2023-04-05,ERP
+103,Cliente_103,cliente103@email.com,11983141474,SP,Google Ads,2024-05-21,ERP
+104,Cliente_104,cliente104@email.com,11913885115,MG,Google Ads,2023-12-14,ERP
+105,Cliente_105,cliente105@email.com,11931548310,PE,Google Ads,2023-09-17,ERP
+106,Cliente_106,cliente106@email.com,11980313229,SP,Orgânico,2024-07-26,HubSpot
+107,Cliente_107,cliente107@email.com,11948328331,RJ,Google Ads,2024-10-16,HubSpot
+108,Cliente_108,cliente108@email.com,11911758712,PR,Facebook Ads,2024-01-27,Planilha
+109,Cliente_109,cliente109@email.com,11927107906,SP,Orgânico,2024-07-01,Planilha
+110,Cliente_110,cliente110@email.com,11965682980,SP,Indicação,2024-05-29,HubSpot
+111,Cliente_111,cliente111@email.com,11961115538,SP,Google Ads,2023-06-15,ERP
+112,Cliente_112,cliente112@email.com,11914763864,SP,Marketplace,2023-11-11,HubSpot
+113,Cliente_113,cliente113@email.com,11953715672,PE,Indicação,2024-09-09,HubSpot
+114,Cliente_114,cliente114@email.com,11922154619,SC,Google Ads,2023-01-24,Planilha
+115,Cliente_115,cliente115@email.com,11934969063,RS,Marketplace,2024-05-31,Planilha
+116,Cliente_116,cliente116@email.com,11983525274,BA,Loja Física,2023-11-12,Planilha
+117,Cliente_117,cliente117@email.com,11983747610,SC,Google Ads,2023-09-19,HubSpot
+118,Cliente_118,cliente118@email.com,11972611104,SP,Facebook Ads,2024-06-04,ERP
+119,Cliente_119,cliente119@email.com,11925288774,PE,Marketplace,2024-06-11,HubSpot
+120,Cliente_120,cliente120@email.com,11959523176,MG,Marketplace,2023-09-23,HubSpot
+121,Cliente_121,cliente121@email.com,11942292199,SC,Google Ads,2024-11-18,ERP
+122,Cliente_122,cliente122@email.com,11944574552,PE,Google Ads,2023-01-27,ERP
+123,Cliente_123,cliente123@email.com,11978331766,SP,Facebook Ads,2024-01-14,ERP
+124,Cliente_124,cliente124@email.com,11932022831,SP,Orgânico,2024-07-15,ERP
+125,Cliente_125,cliente125@email.com,11968586286,SP,Indicação,2023-08-28,Planilha
+126,Cliente_126,cliente126@email.com,11947262720,RJ,Facebook Ads,2023-06-23,Planilha
+127,Cliente_127,cliente127@email.com,11934061341,SC,Orgânico,2024-03-16,HubSpot
+128,Cliente_128,cliente128@email.com,11950413925,BA,Marketplace,2023-01-30,HubSpot
+129,Cliente_129,cliente129@email.com,11911120062,SP,Google Ads,2023-11-08,HubSpot
+130,Cliente_130,cliente130@email.com,11990299089,MG,Facebook Ads,2023-12-06,HubSpot
+131,Cliente_131,cliente131@email.com,11926209201,RJ,Marketplace,2024-10-31,Planilha
+132,Cliente_132,cliente132@email.com,11981988199,SP,Marketplace,2024-05-06,HubSpot
+133,Cliente_133,cliente133@email.com,11964597331,SP,Orgânico,2024-12-28,HubSpot
+134,Cliente_134,cliente134@email.com,11995460271,SP,Orgânico,2023-11-07,HubSpot
+135,Cliente_135,cliente135@email.com,11977207158,CE,Google Ads,2023-04-06,Planilha
+136,Cliente_136,cliente136@email.com,11910731773,SP,Facebook Ads,2024-08-16,HubSpot
+137,Cliente_137,cliente137@email.com,11973608228,MG,Orgânico,2023-06-27,ERP
+138,Cliente_138,cliente138@email.com,11911786825,PR,Google Ads,2023-03-27,HubSpot
+139,Cliente_139,cliente139@email.com,11940520336,RJ,Facebook Ads,2023-11-04,HubSpot
+140,Cliente_140,cliente140@email.com,11991195174,DF,Facebook Ads,2023-11-27,Planilha
+141,Cliente_141,cliente141@email.com,11970597814,CE,Google Ads,2024-09-19,ERP
+142,Cliente_142,cliente142@email.com,11994474276,SP,Facebook Ads,2024-11-15,HubSpot
+143,Cliente_143,cliente143@email.com,11934426861,RJ,Google Ads,2023-11-15,Planilha
+144,Cliente_144,cliente144@email.com,11943165528,SP,Facebook Ads,2023-09-09,Planilha
+145,Cliente_145,cliente145@email.com,11962297875,SP,Google Ads,2024-06-04,HubSpot
+146,Cliente_146,cliente146@email.com,11998994920,SP,Marketplace,2024-08-10,ERP
+147,Cliente_147,cliente147@email.com,11984218590,MG,Orgânico,2024-03-02,Planilha
+148,Cliente_148,cliente148@email.com,11975121065,MG,Indicação,2024-12-06,Planilha
+149,Cliente_149,cliente149@email.com,11910748093,SP,Marketplace,2023-03-23,ERP
+150,Cliente_150,cliente150@email.com,11955921116,SP,Orgânico,2023-11-07,ERP
+151,Cliente_151,cliente151@email.com,11956745526,PE,Google Ads,2023-07-16,Planilha
+152,Cliente_152,cliente152@email.com,11976407290,SP,Orgânico,2023-08-13,ERP
+153,Cliente_153,cliente153@email.com,11954154187,SP,Orgânico,2023-04-05,Planilha
+154,Cliente_154,cliente154@email.com,11923599968,RJ,Marketplace,2024-01-08,Planilha
+155,Cliente_155,cliente155@email.com,11929339137,DF,Facebook Ads,2024-02-11,Planilha
+156,Cliente_156,cliente156@email.com,11976872328,SP,Google Ads,2023-01-27,Planilha
+157,Cliente_157,cliente157@email.com,11952275831,RS,Facebook Ads,2024-09-15,HubSpot
+158,Cliente_158,cliente158@email.com,11997522772,PR,Facebook Ads,2024-11-27,ERP
+159,Cliente_159,cliente159@email.com,11937339163,SP,Indicação,2024-04-10,ERP
+160,Cliente_160,cliente160@email.com,11959189342,PR,Orgânico,2023-03-18,HubSpot
+161,Cliente_161,cliente161@email.com,11993337250,RJ,Facebook Ads,2024-05-28,ERP
+162,Cliente_162,cliente162@email.com,11918423240,RS,Loja Física,2023-06-19,HubSpot
+163,Cliente_163,cliente163@email.com,11978859991,RS,Indicação,2023-04-09,HubSpot
+164,Cliente_164,cliente164@email.com,11965996977,MG,Google Ads,2024-10-07,Planilha
+165,Cliente_165,cliente165@email.com,11982477654,SP,Google Ads,2024-11-14,HubSpot
+166,Cliente_166,cliente166@email.com,11959152678,BA,Google Ads,2024-07-12,ERP
+167,Cliente_167,cliente167@email.com,11946470265,SP,Google Ads,2024-05-24,ERP
+168,Cliente_168,cliente168@email.com,11941055237,SP,Google Ads,2023-10-24,Planilha
+169,Cliente_169,cliente169@email.com,11990383222,SP,Google Ads,2023-03-08,HubSpot
+170,Cliente_170,cliente170@email.com,11940809724,MG,Facebook Ads,2023-06-13,HubSpot
+171,Cliente_171,cliente171@email.com,11963937304,RS,Google Ads,2024-07-25,Planilha
+172,Cliente_172,cliente172@email.com,11940034339,SP,Marketplace,2023-04-29,ERP
+173,Cliente_173,cliente173@email.com,11976011434,MG,Google Ads,2023-11-05,Planilha
+174,Cliente_174,cliente174@email.com,11995071271,SP,Orgânico,2023-08-25,HubSpot
+175,Cliente_175,cliente175@email.com,11936525961,RS,Facebook Ads,2024-08-11,Planilha
+176,Cliente_176,cliente176@email.com,11994364627,SP,Loja Física,2023-12-24,Planilha
+177,Cliente_177,cliente177@email.com,11949022344,RS,Google Ads,2023-11-27,Planilha
+178,Cliente_178,cliente178@email.com,11924154834,RJ,Facebook Ads,2023-07-28,HubSpot
+179,Cliente_179,cliente179@email.com,11946978923,PE,Loja Física,2024-12-17,Planilha
+180,Cliente_180,cliente180@email.com,11935475337,SP,Marketplace,2024-08-19,Planilha
+181,Cliente_181,cliente181@email.com,11992355664,SP,Marketplace,2024-02-16,ERP
+182,Cliente_182,cliente182@email.com,11998232246,SP,Facebook Ads,2023-02-16,HubSpot
+183,Cliente_183,cliente183@email.com,11975381606,PE,Google Ads,2023-05-26,Planilha
+184,Cliente_184,cliente184@email.com,11972027889,BA,Indicação,2023-01-12,ERP
+185,Cliente_185,cliente185@email.com,11992549238,SP,Loja Física,2024-01-17,HubSpot
+186,Cliente_186,cliente186@email.com,11957567440,RS,Orgânico,2024-02-12,ERP
+187,Cliente_187,cliente187@email.com,11971306330,SC,Orgânico,2023-02-14,Planilha
+188,Cliente_188,cliente188@email.com,11928651833,MG,Facebook Ads,2023-12-14,HubSpot
+189,Cliente_189,cliente189@email.com,11952420585,MG,Marketplace,2024-11-29,HubSpot
+190,Cliente_190,cliente190@email.com,11979819149,SP,Google Ads,2023-03-11,Planilha
+191,Cliente_191,cliente191@email.com,11942943005,SP,Facebook Ads,2023-02-19,HubSpot
+192,Cliente_192,cliente192@email.com,11937634286,PE,Facebook Ads,2023-10-12,Planilha
+193,Cliente_193,cliente193@email.com,11939328897,PE,Orgânico,2023-09-21,HubSpot
+194,Cliente_194,cliente194@email.com,11954866178,RS,Google Ads,2024-05-15,Planilha
+195,Cliente_195,cliente195@email.com,11998108612,SP,Google Ads,2023-06-20,HubSpot
+196,Cliente_196,cliente196@email.com,11992589346,SP,Indicação,2024-09-16,ERP
+197,Cliente_197,cliente197@email.com,11916482268,PR,Facebook Ads,2023-07-17,ERP
+198,Cliente_198,cliente198@email.com,11993363336,PE,Orgânico,2024-09-23,ERP
+199,Cliente_199,cliente199@email.com,11959365019,BA,Google Ads,2023-06-24,Planilha
+200,Cliente_200,cliente200@email.com,11992947257,SC,Orgânico,2023-10-27,HubSpot
+201,Cliente_201,cliente201@email.com,11950280587,RS,Orgânico,2024-09-10,Planilha
+202,Cliente_202,cliente202@email.com,11933542336,SP,Google Ads,2023-08-25,HubSpot
+203,Cliente_203,cliente203@email.com,11985223454,SP,Facebook Ads,2024-10-20,HubSpot
+204,Cliente_204,cliente204@email.com,11920522591,PE,Google Ads,2023-09-29,HubSpot
+205,Cliente_205,cliente205@email.com,11922033425,MG,Google Ads,2023-12-18,HubSpot
+206,Cliente_206,cliente206@email.com,11910362940,SP,Loja Física,2023-06-24,Planilha
+207,Cliente_207,cliente207@email.com,11930335035,SP,Facebook Ads,2023-03-18,Planilha
+208,Cliente_208,cliente208@email.com,11970108737,RS,Marketplace,2023-08-28,HubSpot
+209,Cliente_209,cliente209@email.com,11918510173,SP,Facebook Ads,2023-10-01,HubSpot
+210,Cliente_210,cliente210@email.com,11979336509,SP,Indicação,2023-05-23,ERP
+211,Cliente_211,cliente211@email.com,11927025442,MG,Marketplace,2023-10-10,HubSpot
+212,Cliente_212,cliente212@email.com,11954464023,RS,Orgânico,2023-08-27,HubSpot
+213,Cliente_213,cliente213@email.com,11944173510,RS,Orgânico,2024-09-10,HubSpot
+214,Cliente_214,cliente214@email.com,11958222903,SP,Facebook Ads,2023-04-01,Planilha
+215,Cliente_215,cliente215@email.com,11914024825,PR,Facebook Ads,2024-07-14,Planilha
+216,Cliente_216,cliente216@email.com,11955923716,SP,Loja Física,2023-07-18,HubSpot
+217,Cliente_217,cliente217@email.com,11990739338,SP,Marketplace,2023-02-27,HubSpot
+218,Cliente_218,cliente218@email.com,11992924655,PR,Loja Física,2024-12-25,Planilha
+219,Cliente_219,cliente219@email.com,11988025532,RS,Google Ads,2023-11-24,Planilha
+220,Cliente_220,cliente220@email.com,11934839906,BA,Marketplace,2024-08-20,HubSpot
+221,Cliente_221,cliente221@email.com,11931032021,RS,Loja Física,2024-06-09,ERP
+222,Cliente_222,cliente222@email.com,11947094860,MG,Google Ads,2024-06-12,HubSpot
+223,Cliente_223,cliente223@email.com,11951904607,SP,Google Ads,2023-12-31,HubSpot
+224,Cliente_224,cliente224@email.com,11914807171,RJ,Marketplace,2023-10-12,ERP
+225,Cliente_225,cliente225@email.com,11995834621,SP,Orgânico,2024-02-26,HubSpot
+226,Cliente_226,cliente226@email.com,11944244990,SP,Marketplace,2024-05-09,Planilha
+227,Cliente_227,cliente227@email.com,11933585133,DF,Google Ads,2023-09-02,HubSpot
+228,Cliente_228,cliente228@email.com,11923243488,RJ,Marketplace,2023-06-06,HubSpot
+229,Cliente_229,cliente229@email.com,11920120514,PE,Google Ads,2024-03-05,ERP
+230,Cliente_230,cliente230@email.com,11929630564,RS,Google Ads,2023-05-03,HubSpot
+231,Cliente_231,cliente231@email.com,11922626144,SC,Google Ads,2024-07-27,ERP
+232,Cliente_232,cliente232@email.com,11993441007,MG,Marketplace,2024-01-28,HubSpot
+233,Cliente_233,cliente233@email.com,11932195635,MG,Indicação,2023-09-05,HubSpot
+234,Cliente_234,cliente234@email.com,11915632815,RJ,Orgânico,2023-11-11,HubSpot
+235,Cliente_235,cliente235@email.com,11955309125,SP,Facebook Ads,2023-08-18,Planilha
+236,Cliente_236,cliente236@email.com,11916455997,PR,Marketplace,2023-01-07,HubSpot
+237,Cliente_237,cliente237@email.com,11927202163,SP,Facebook Ads,2024-09-04,ERP
+238,Cliente_238,cliente238@email.com,11935023716,SP,Marketplace,2024-11-19,HubSpot
+239,Cliente_239,cliente239@email.com,11961214456,RS,Facebook Ads,2023-02-15,ERP
+240,Cliente_240,cliente240@email.com,11953553015,SP,Facebook Ads,2024-05-20,HubSpot
+241,Cliente_241,cliente241@email.com,11936931140,CE,Orgânico,2023-11-06,ERP
+242,Cliente_242,cliente242@email.com,11957556123,CE,Facebook Ads,2024-02-10,Planilha
+243,Cliente_243,cliente243@email.com,11974169850,PE,Marketplace,2023-01-16,Planilha
+244,Cliente_244,cliente244@email.com,11985455705,RJ,Orgânico,2024-05-05,ERP
+245,Cliente_245,cliente245@email.com,11993678837,SP,Google Ads,2024-08-31,Planilha
+246,Cliente_246,cliente246@email.com,11984119652,PE,Marketplace,2023-09-24,Planilha
+247,Cliente_247,cliente247@email.com,11933204198,RJ,Facebook Ads,2024-10-29,HubSpot
+248,Cliente_248,cliente248@email.com,11982720316,CE,Orgânico,2024-03-16,HubSpot
+249,Cliente_249,cliente249@email.com,11958998453,CE,Loja Física,2024-07-13,ERP
+250,Cliente_250,cliente250@email.com,11977737639,BA,Indicação,2023-09-09,Planilha
+251,Cliente_251,cliente251@email.com,11997987256,SP,Google Ads,2024-12-10,Planilha
+252,Cliente_252,cliente252@email.com,11950947530,RJ,Loja Física,2024-06-25,HubSpot
+253,Cliente_253,cliente253@email.com,11975318691,BA,Indicação,2023-02-06,HubSpot
+254,Cliente_254,cliente254@email.com,11961641165,SP,Facebook Ads,2023-01-18,HubSpot
+255,Cliente_255,cliente255@email.com,11983363091,SP,Google Ads,2024-03-15,Planilha
+256,Cliente_256,cliente256@email.com,11941273976,MG,Marketplace,2023-07-01,HubSpot
+257,Cliente_257,cliente257@email.com,11962252858,PE,Indicação,2023-02-06,HubSpot
+258,Cliente_258,cliente258@email.com,11989871063,RS,Orgânico,2024-07-01,HubSpot
+259,Cliente_259,cliente259@email.com,11939791170,MG,Marketplace,2024-11-06,HubSpot
+260,Cliente_260,cliente260@email.com,11914958969,SP,Marketplace,2024-09-08,Planilha
+261,Cliente_261,cliente261@email.com,11941567027,MG,Google Ads,2024-09-14,HubSpot
+262,Cliente_262,cliente262@email.com,11914455827,DF,Facebook Ads,2024-10-21,Planilha
+263,Cliente_263,cliente263@email.com,11964840406,SP,Google Ads,2023-12-15,HubSpot
+264,Cliente_264,cliente264@email.com,11918503881,MG,Marketplace,2023-03-22,HubSpot
+265,Cliente_265,cliente265@email.com,11984594752,BA,Google Ads,2023-08-15,HubSpot
+266,Cliente_266,cliente266@email.com,11911743138,PR,Orgânico,2023-07-22,HubSpot
+267,Cliente_267,cliente267@email.com,11983152752,RS,Marketplace,2024-08-30,HubSpot
+268,Cliente_268,cliente268@email.com,11959117248,PR,Marketplace,2024-07-08,HubSpot
+269,Cliente_269,cliente269@email.com,11970951371,RJ,Facebook Ads,2023-10-06,Planilha
+270,Cliente_270,cliente270@email.com,11943873105,SP,Marketplace,2024-09-26,HubSpot
+271,Cliente_271,cliente271@email.com,11912980458,SC,Google Ads,2023-04-10,Planilha
+272,Cliente_272,cliente272@email.com,11981355831,SC,Marketplace,2024-11-06,ERP
+273,Cliente_273,cliente273@email.com,11999744903,BA,Google Ads,2023-08-08,Planilha
+274,Cliente_274,cliente274@email.com,11998261729,PE,Facebook Ads,2024-12-05,HubSpot
+275,Cliente_275,cliente275@email.com,11930433787,MG,Marketplace,2024-12-22,HubSpot
+276,Cliente_276,cliente276@email.com,11944937767,MG,Google Ads,2023-07-19,HubSpot
+277,Cliente_277,cliente277@email.com,11960043517,SC,Google Ads,2023-04-16,HubSpot
+278,Cliente_278,cliente278@email.com,11924375043,RS,Marketplace,2024-11-26,ERP
+279,Cliente_279,cliente279@email.com,11936350487,PR,Marketplace,2023-01-01,HubSpot
+280,Cliente_280,cliente280@email.com,11927010369,SC,Indicação,2023-11-20,HubSpot
+281,Cliente_281,cliente281@email.com,11932502169,PE,Indicação,2023-01-03,Planilha
+282,Cliente_282,cliente282@email.com,11934256703,SP,Orgânico,2023-02-05,Planilha
+283,Cliente_283,cliente283@email.com,11960413197,RJ,Facebook Ads,2024-08-18,Planilha
+284,Cliente_284,cliente284@email.com,11978878804,SP,Facebook Ads,2023-02-10,HubSpot
+285,Cliente_285,cliente285@email.com,11979298760,MG,Google Ads,2023-11-18,HubSpot
+286,Cliente_286,cliente286@email.com,11922955438,SP,Loja Física,2024-09-03,Planilha
+287,Cliente_287,cliente287@email.com,11934327457,RJ,Orgânico,2023-11-15,HubSpot
+288,Cliente_288,cliente288@email.com,11911255091,MG,Facebook Ads,2023-07-31,HubSpot
+289,Cliente_289,cliente289@email.com,11995407115,SP,Orgânico,2023-12-11,HubSpot
+290,Cliente_290,cliente290@email.com,11995980967,MG,Loja Física,2023-03-06,HubSpot
+291,Cliente_291,cliente291@email.com,11972798200,SP,Google Ads,2023-11-02,HubSpot
+292,Cliente_292,cliente292@email.com,11955253509,SP,Orgânico,2023-12-09,HubSpot
+293,Cliente_293,cliente293@email.com,11916091555,SC,Orgânico,2023-09-29,Planilha
+294,Cliente_294,cliente294@email.com,11983732927,RJ,Indicação,2024-09-28,Planilha
+295,Cliente_295,cliente295@email.com,11913050162,SP,Google Ads,2024-11-26,ERP
+296,Cliente_296,cliente296@email.com,11941814763,MG,Marketplace,2024-02-05,HubSpot
+297,Cliente_297,cliente297@email.com,11941732684,PR,Loja Física,2023-04-16,HubSpot
+298,Cliente_298,cliente298@email.com,11916929985,SP,Orgânico,2024-04-09,HubSpot
+299,Cliente_299,cliente299@email.com,11985888482,RS,Indicação,2023-04-29,Planilha
+300,Cliente_300,cliente300@email.com,11953281556,SP,Loja Física,2024-04-04,Planilha
+301,Cliente_301,cliente301@email.com,11995982657,SP,Marketplace,2023-10-03,HubSpot
+302,Cliente_302,cliente302@email.com,11953655773,MG,Google Ads,2024-04-04,ERP
+303,Cliente_303,cliente303@email.com,11998109241,MG,Orgânico,2023-09-15,HubSpot
+304,Cliente_304,cliente304@email.com,11979156886,RS,Indicação,2023-12-09,Planilha
+305,Cliente_305,cliente305@email.com,11913743011,PR,Facebook Ads,2024-07-04,Planilha
+306,Cliente_306,cliente306@email.com,11964196725,DF,Marketplace,2024-11-20,ERP
+307,Cliente_307,cliente307@email.com,11997001841,MG,Loja Física,2023-08-18,Planilha
+308,Cliente_308,cliente308@email.com,11931079191,SP,Loja Física,2024-08-16,ERP
+309,Cliente_309,cliente309@email.com,11984681926,SC,Orgânico,2023-01-04,HubSpot
+310,Cliente_310,cliente310@email.com,11933139699,SP,Google Ads,2023-08-01,ERP
+311,Cliente_311,cliente311@email.com,11921154206,RJ,Loja Física,2024-06-27,HubSpot
+312,Cliente_312,cliente312@email.com,11952013835,SP,Marketplace,2023-09-25,ERP
+313,Cliente_313,cliente313@email.com,11930671804,SP,Google Ads,2024-10-04,Planilha
+314,Cliente_314,cliente314@email.com,11982276104,CE,Loja Física,2023-05-09,ERP
+315,Cliente_315,cliente315@email.com,11967865501,BA,Marketplace,2024-09-27,HubSpot
+316,Cliente_316,cliente316@email.com,11983162759,RS,Orgânico,2023-08-24,Planilha
+317,Cliente_317,cliente317@email.com,11915960688,RJ,Orgânico,2024-05-30,Planilha
+318,Cliente_318,cliente318@email.com,11974704869,SP,Facebook Ads,2024-08-06,Planilha
+319,Cliente_319,cliente319@email.com,11967593662,SP,Google Ads,2023-10-21,HubSpot
+320,Cliente_320,cliente320@email.com,11974240120,SP,Facebook Ads,2024-02-18,HubSpot
+321,Cliente_321,cliente321@email.com,11924029610,MG,Marketplace,2024-04-11,HubSpot
+322,Cliente_322,cliente322@email.com,11968061814,PR,Google Ads,2024-08-04,HubSpot
+323,Cliente_323,cliente323@email.com,11917219460,RS,Facebook Ads,2023-01-01,ERP
+324,Cliente_324,cliente324@email.com,11939886769,SP,Facebook Ads,2024-09-24,HubSpot
+325,Cliente_325,cliente325@email.com,11999426920,CE,Orgânico,2023-09-23,ERP
+326,Cliente_326,cliente326@email.com,11996854386,PR,Loja Física,2024-04-12,HubSpot
+327,Cliente_327,cliente327@email.com,11973571325,MG,Facebook Ads,2024-03-05,HubSpot
+328,Cliente_328,cliente328@email.com,11999975171,MG,Facebook Ads,2023-07-12,Planilha
+329,Cliente_329,cliente329@email.com,11985021374,RJ,Marketplace,2024-05-20,Planilha
+330,Cliente_330,cliente330@email.com,11999042667,SP,Orgânico,2023-09-30,HubSpot
+331,Cliente_331,cliente331@email.com,11979261497,RJ,Google Ads,2024-07-31,Planilha
+332,Cliente_332,cliente332@email.com,11981325737,PR,Orgânico,2023-06-13,Planilha
+333,Cliente_333,cliente333@email.com,11985622952,SP,Google Ads,2023-10-16,HubSpot
+334,Cliente_334,cliente334@email.com,11928057933,SP,Google Ads,2023-10-21,ERP
+335,Cliente_335,cliente335@email.com,11916706317,SP,Orgânico,2023-07-30,ERP
+336,Cliente_336,cliente336@email.com,11943072513,SP,Facebook Ads,2024-03-26,Planilha
+337,Cliente_337,cliente337@email.com,11958667604,BA,Loja Física,2024-05-26,HubSpot
+338,Cliente_338,cliente338@email.com,11973243758,PR,Facebook Ads,2024-03-19,Planilha
+339,Cliente_339,cliente339@email.com,11963176926,RJ,Orgânico,2024-03-04,HubSpot
+340,Cliente_340,cliente340@email.com,11978770662,SP,Indicação,2023-05-23,HubSpot
+341,Cliente_341,cliente341@email.com,11927112742,RJ,Google Ads,2024-11-10,HubSpot
+342,Cliente_342,cliente342@email.com,11968816258,RJ,Indicação,2023-06-03,HubSpot
+343,Cliente_343,cliente343@email.com,11958314035,SP,Google Ads,2024-10-07,ERP
+344,Cliente_344,cliente344@email.com,11940285022,RJ,Loja Física,2023-04-22,Planilha
+345,Cliente_345,cliente345@email.com,11960068647,RJ,Google Ads,2024-08-03,Planilha
+346,Cliente_346,cliente346@email.com,11933864717,MG,Facebook Ads,2024-01-18,HubSpot
+347,Cliente_347,cliente347@email.com,11996846637,RS,Google Ads,2023-10-18,HubSpot
+348,Cliente_348,cliente348@email.com,11966475586,SP,Loja Física,2023-07-12,HubSpot
+349,Cliente_349,cliente349@email.com,11952621799,RJ,Orgânico,2024-04-18,ERP
+350,Cliente_350,cliente350@email.com,11927330105,RS,Orgânico,2023-10-11,HubSpot
+351,Cliente_351,cliente351@email.com,11910253586,MG,Google Ads,2023-11-03,ERP
+352,Cliente_352,cliente352@email.com,11947384411,BA,Marketplace,2023-02-19,Planilha
+353,Cliente_353,cliente353@email.com,11957473923,RS,Google Ads,2023-10-25,HubSpot
+354,Cliente_354,cliente354@email.com,11963322967,SP,Marketplace,2024-01-12,Planilha
+355,Cliente_355,cliente355@email.com,11974780071,SP,Google Ads,2024-12-17,HubSpot
+356,Cliente_356,cliente356@email.com,11922567837,RS,Google Ads,2024-04-14,ERP
+357,Cliente_357,cliente357@email.com,11995043892,SP,Google Ads,2024-12-04,ERP
+358,Cliente_358,cliente358@email.com,11929505112,MG,Orgânico,2023-02-10,HubSpot
+359,Cliente_359,cliente359@email.com,11933027544,CE,Orgânico,2024-02-29,HubSpot
+360,Cliente_360,cliente360@email.com,11915882345,MG,Google Ads,2024-07-06,Planilha
+361,Cliente_361,cliente361@email.com,11976243500,RJ,Marketplace,2024-02-07,ERP
+362,Cliente_362,cliente362@email.com,11957224406,RS,Orgânico,2023-05-24,HubSpot
+363,Cliente_363,cliente363@email.com,11961866609,RJ,Orgânico,2023-12-05,Planilha
+364,Cliente_364,cliente364@email.com,11983312420,MG,Facebook Ads,2024-12-05,Planilha
+365,Cliente_365,cliente365@email.com,11917814530,CE,Facebook Ads,2024-09-04,Planilha
+366,Cliente_366,cliente366@email.com,11930172402,RJ,Orgânico,2023-07-27,HubSpot
+367,Cliente_367,cliente367@email.com,11943618957,CE,Google Ads,2024-08-21,Planilha
+368,Cliente_368,cliente368@email.com,11963015767,PE,Google Ads,2024-08-06,ERP
+369,Cliente_369,cliente369@email.com,11937706416,SP,Marketplace,2023-04-12,HubSpot
+370,Cliente_370,cliente370@email.com,11951209035,SP,Loja Física,2023-03-04,HubSpot
+371,Cliente_371,cliente371@email.com,11913217014,SP,Facebook Ads,2024-09-18,ERP
+372,Cliente_372,cliente372@email.com,11917549311,SP,Facebook Ads,2024-11-29,HubSpot
+373,Cliente_373,cliente373@email.com,11929292633,SP,Indicação,2023-06-28,ERP
+374,Cliente_374,cliente374@email.com,11922871495,RS,Facebook Ads,2023-07-07,HubSpot
+375,Cliente_375,cliente375@email.com,11976480145,SP,Google Ads,2024-04-01,HubSpot
+376,Cliente_376,cliente376@email.com,11935661572,SP,Google Ads,2023-12-14,ERP
+377,Cliente_377,cliente377@email.com,11946057517,BA,Marketplace,2024-10-17,HubSpot
+378,Cliente_378,cliente378@email.com,11989567315,SP,Indicação,2023-08-02,Planilha
+379,Cliente_379,cliente379@email.com,11939718846,SC,Google Ads,2023-06-29,HubSpot
+380,Cliente_380,cliente380@email.com,11919309310,SP,Google Ads,2023-12-24,Planilha
+381,Cliente_381,cliente381@email.com,11915393858,SP,Google Ads,2023-01-13,HubSpot
+382,Cliente_382,cliente382@email.com,11918553279,RS,Indicação,2023-01-04,HubSpot
+383,Cliente_383,cliente383@email.com,11960605674,RS,Google Ads,2024-06-02,ERP
+384,Cliente_384,cliente384@email.com,11988147991,BA,Google Ads,2023-12-31,HubSpot
+385,Cliente_385,cliente385@email.com,11973705173,PR,Marketplace,2024-05-24,Planilha
+386,Cliente_386,cliente386@email.com,11997183789,SC,Google Ads,2023-11-05,HubSpot
+387,Cliente_387,cliente387@email.com,11986757272,SP,Indicação,2024-11-02,Planilha
+388,Cliente_388,cliente388@email.com,11963044016,SP,Google Ads,2023-01-10,HubSpot
+389,Cliente_389,cliente389@email.com,11949258131,PR,Google Ads,2024-10-14,ERP
+390,Cliente_390,cliente390@email.com,11931738190,SC,Google Ads,2023-06-04,HubSpot
+391,Cliente_391,cliente391@email.com,11969746523,DF,Marketplace,2024-06-14,HubSpot
+392,Cliente_392,cliente392@email.com,11913297123,RJ,Marketplace,2024-10-08,HubSpot
+393,Cliente_393,cliente393@email.com,11943297306,RJ,Marketplace,2023-06-02,HubSpot
+394,Cliente_394,cliente394@email.com,11981906787,SC,Facebook Ads,2024-04-06,Planilha
+395,Cliente_395,cliente395@email.com,11959302108,SP,Indicação,2023-09-16,HubSpot
+396,Cliente_396,cliente396@email.com,11999780378,PE,Google Ads,2024-05-14,ERP
+397,Cliente_397,cliente397@email.com,11980251567,BA,Facebook Ads,2024-08-05,HubSpot
+398,Cliente_398,cliente398@email.com,11976442841,RJ,Marketplace,2023-04-13,HubSpot
+399,Cliente_399,cliente399@email.com,11919997031,PR,Google Ads,2024-07-13,Planilha
+400,Cliente_400,cliente400@email.com,11922476698,PR,Google Ads,2024-12-13,Planilha
+401,Cliente_401,cliente401@email.com,11969338020,SP,Google Ads,2024-08-30,HubSpot
+402,Cliente_402,cliente402@email.com,11933523048,PE,Google Ads,2024-03-20,HubSpot
+403,Cliente_403,cliente403@email.com,11959935667,MG,Google Ads,2023-08-10,HubSpot
+404,Cliente_404,cliente404@email.com,11931720936,SC,Orgânico,2024-01-15,Planilha
+405,Cliente_405,cliente405@email.com,11919012171,SP,Facebook Ads,2023-07-05,Planilha
+406,Cliente_406,cliente406@email.com,11943825866,PE,Marketplace,2024-08-18,HubSpot
+407,Cliente_407,cliente407@email.com,11916913408,RJ,Marketplace,2024-07-20,ERP
+408,Cliente_408,cliente408@email.com,11921391507,SP,Facebook Ads,2024-10-09,ERP
+409,Cliente_409,cliente409@email.com,11996979444,PE,Facebook Ads,2023-08-31,Planilha
+410,Cliente_410,cliente410@email.com,11983648134,SP,Facebook Ads,2023-01-07,ERP
+411,Cliente_411,cliente411@email.com,11978577503,SP,Orgânico,2024-06-12,HubSpot
+412,Cliente_412,cliente412@email.com,11933692224,CE,Facebook Ads,2023-07-21,HubSpot
+413,Cliente_413,cliente413@email.com,11988599805,CE,Indicação,2023-03-15,HubSpot
+414,Cliente_414,cliente414@email.com,11944352996,MG,Facebook Ads,2024-11-24,HubSpot
+415,Cliente_415,cliente415@email.com,11930017431,RS,Orgânico,2023-11-02,Planilha
+416,Cliente_416,cliente416@email.com,11945148700,RJ,Facebook Ads,2023-05-17,ERP
+417,Cliente_417,cliente417@email.com,11946345067,SP,Facebook Ads,2024-03-20,HubSpot
+418,Cliente_418,cliente418@email.com,11959219518,SP,Loja Física,2024-07-27,HubSpot
+419,Cliente_419,cliente419@email.com,11957863376,RS,Marketplace,2023-08-09,HubSpot
+420,Cliente_420,cliente420@email.com,11950086140,PR,Google Ads,2024-09-26,ERP
+421,Cliente_421,cliente421@email.com,11923846628,SC,Marketplace,2024-06-16,HubSpot
+422,Cliente_422,cliente422@email.com,11991669902,SC,Orgânico,2024-03-31,Planilha
+423,Cliente_423,cliente423@email.com,11949518135,SP,Marketplace,2024-08-07,HubSpot
+424,Cliente_424,cliente424@email.com,11915131258,RJ,Marketplace,2023-09-22,HubSpot
+425,Cliente_425,cliente425@email.com,11943403439,SP,Facebook Ads,2023-12-21,ERP
+426,Cliente_426,cliente426@email.com,11921480812,MG,Google Ads,2024-08-06,ERP
+427,Cliente_427,cliente427@email.com,11959598390,RJ,Facebook Ads,2023-04-19,HubSpot
+428,Cliente_428,cliente428@email.com,11925964560,BA,Orgânico,2023-05-19,ERP
+429,Cliente_429,cliente429@email.com,11982440251,RJ,Indicação,2023-05-25,Planilha
+430,Cliente_430,cliente430@email.com,11937288040,SP,Facebook Ads,2024-05-06,ERP
+431,Cliente_431,cliente431@email.com,11963329695,SP,Google Ads,2023-12-29,HubSpot
+432,Cliente_432,cliente432@email.com,11991124073,PR,Marketplace,2023-08-30,Planilha
+433,Cliente_433,cliente433@email.com,11948995389,MG,Loja Física,2023-05-04,HubSpot
+434,Cliente_434,cliente434@email.com,11989022404,SP,Orgânico,2024-07-06,Planilha
+435,Cliente_435,cliente435@email.com,11959855463,SP,Google Ads,2024-09-08,HubSpot
+436,Cliente_436,cliente436@email.com,11960503989,PR,Facebook Ads,2023-09-09,HubSpot
+437,Cliente_437,cliente437@email.com,11932459310,SP,Google Ads,2024-04-27,HubSpot
+438,Cliente_438,cliente438@email.com,11913018078,SC,Loja Física,2024-11-28,Planilha
+439,Cliente_439,cliente439@email.com,11989120985,PR,Google Ads,2024-09-12,HubSpot
+440,Cliente_440,cliente440@email.com,11916565608,SP,Orgânico,2023-01-17,Planilha
+441,Cliente_441,cliente441@email.com,11914505800,SP,Facebook Ads,2024-10-04,ERP
+442,Cliente_442,cliente442@email.com,11982639496,DF,Orgânico,2023-12-17,HubSpot
+443,Cliente_443,cliente443@email.com,11931271109,RJ,Indicação,2024-06-21,Planilha
+444,Cliente_444,cliente444@email.com,11979068487,RJ,Marketplace,2023-10-28,HubSpot
+445,Cliente_445,cliente445@email.com,11960475747,SC,Google Ads,2024-09-07,ERP
+446,Cliente_446,cliente446@email.com,11993954243,CE,Google Ads,2023-05-16,HubSpot
+447,Cliente_447,cliente447@email.com,11965714685,DF,Google Ads,2024-02-28,Planilha
+448,Cliente_448,cliente448@email.com,11950640176,PR,Loja Física,2023-05-15,ERP
+449,Cliente_449,cliente449@email.com,11990948009,RJ,Marketplace,2023-12-09,ERP
+450,Cliente_450,cliente450@email.com,11961259380,SP,Orgânico,2023-07-17,Planilha
+451,Cliente_451,cliente451@email.com,11923242797,SC,Indicação,2023-08-31,HubSpot
+452,Cliente_452,cliente452@email.com,11942277013,MG,Indicação,2023-12-06,Planilha
+453,Cliente_453,cliente453@email.com,11965430884,RJ,Google Ads,2024-03-28,ERP
+454,Cliente_454,cliente454@email.com,11916386029,PE,Loja Física,2023-08-09,Planilha
+455,Cliente_455,cliente455@email.com,11935797875,SP,Facebook Ads,2023-07-20,HubSpot
+456,Cliente_456,cliente456@email.com,11989646663,RJ,Facebook Ads,2023-04-27,ERP
+457,Cliente_457,cliente457@email.com,11962622680,SP,Orgânico,2023-07-31,Planilha
+458,Cliente_458,cliente458@email.com,11948921647,RJ,Google Ads,2023-12-14,Planilha
+459,Cliente_459,cliente459@email.com,11963402047,SP,Google Ads,2023-10-23,HubSpot
+460,Cliente_460,cliente460@email.com,11964206648,SP,Marketplace,2024-10-12,Planilha
+461,Cliente_461,cliente461@email.com,11960090770,SP,Google Ads,2023-01-24,HubSpot
+462,Cliente_462,cliente462@email.com,11910355994,RS,Indicação,2024-07-07,Planilha
+463,Cliente_463,cliente463@email.com,11958435764,PR,Google Ads,2024-03-02,HubSpot
+464,Cliente_464,cliente464@email.com,11963784095,MG,Facebook Ads,2023-02-03,Planilha
+465,Cliente_465,cliente465@email.com,11976065145,CE,Facebook Ads,2024-11-06,ERP
+466,Cliente_466,cliente466@email.com,11936369765,RJ,Facebook Ads,2024-12-01,HubSpot
+467,Cliente_467,cliente467@email.com,11920378424,SP,Marketplace,2023-07-21,ERP
+468,Cliente_468,cliente468@email.com,11991743245,BA,Facebook Ads,2023-10-04,HubSpot
+469,Cliente_469,cliente469@email.com,11938179456,SP,Orgânico,2024-06-27,ERP
+470,Cliente_470,cliente470@email.com,11919062396,CE,Orgânico,2024-09-03,Planilha
+471,Cliente_471,cliente471@email.com,11985359654,SP,Indicação,2024-11-10,Planilha
+472,Cliente_472,cliente472@email.com,11980119877,CE,Loja Física,2024-11-01,Planilha
+473,Cliente_473,cliente473@email.com,11995557588,SP,Marketplace,2023-01-15,ERP
+474,Cliente_474,cliente474@email.com,11921499254,PE,Google Ads,2024-07-05,HubSpot
+475,Cliente_475,cliente475@email.com,11973851743,MG,Google Ads,2024-11-01,HubSpot
+476,Cliente_476,cliente476@email.com,11968084167,DF,Facebook Ads,2023-02-25,Planilha
+477,Cliente_477,cliente477@email.com,11958628126,SP,Orgânico,2023-10-10,ERP
+478,Cliente_478,cliente478@email.com,11943069494,MG,Google Ads,2023-02-21,Planilha
+479,Cliente_479,cliente479@email.com,11954464676,CE,Orgânico,2024-01-29,Planilha
+480,Cliente_480,cliente480@email.com,11937484840,MG,Orgânico,2024-01-10,HubSpot
+481,Cliente_481,cliente481@email.com,11982779070,RS,Facebook Ads,2023-04-10,ERP
+482,Cliente_482,cliente482@email.com,11978694050,RS,Marketplace,2023-11-23,HubSpot
+483,Cliente_483,cliente483@email.com,11940659111,RJ,Google Ads,2023-03-29,Planilha
+484,Cliente_484,cliente484@email.com,11942567478,RS,Google Ads,2023-01-26,HubSpot
+485,Cliente_485,cliente485@email.com,11973295097,MG,Marketplace,2023-12-16,HubSpot
+486,Cliente_486,cliente486@email.com,11987950780,PE,Orgânico,2023-07-17,HubSpot
+487,Cliente_487,cliente487@email.com,11939230979,SP,Indicação,2023-03-02,HubSpot
+488,Cliente_488,cliente488@email.com,11984051873,SP,Facebook Ads,2023-10-04,Planilha
+489,Cliente_489,cliente489@email.com,11971509389,CE,Google Ads,2023-08-23,HubSpot
+490,Cliente_490,cliente490@email.com,11986079195,PE,Marketplace,2023-05-05,HubSpot
+491,Cliente_491,cliente491@email.com,11918813040,RJ,Marketplace,2023-08-10,HubSpot
+492,Cliente_492,cliente492@email.com,11996004599,RS,Indicação,2023-06-04,HubSpot
+493,Cliente_493,cliente493@email.com,11974701338,SP,Facebook Ads,2023-07-06,HubSpot
+494,Cliente_494,cliente494@email.com,11999603682,SP,Orgânico,2024-04-05,HubSpot
+495,Cliente_495,cliente495@email.com,11977187893,RJ,Facebook Ads,2023-10-25,Planilha
+496,Cliente_496,cliente496@email.com,11925225456,RJ,Google Ads,2024-10-08,Planilha
+497,Cliente_497,cliente497@email.com,11949901659,MG,Loja Física,2024-12-31,Planilha
+498,Cliente_498,cliente498@email.com,11925819890,SP,Google Ads,2024-12-05,HubSpot
+499,Cliente_499,cliente499@email.com,11923152272,DF,Loja Física,2024-01-20,HubSpot
+500,Cliente_500,cliente500@email.com,11923786385,DF,Facebook Ads,2024-04-30,ERP
+501,Cliente_295,cliente295_dup@email.com,11913050162,SP,Google Ads,2024-11-26,ERP
+502,Cliente_426,cliente426_dup@email.com,11921480812,MG,Google Ads,2024-08-06,ERP
+503,Cliente_318,cliente318_dup@email.com,11974704869,SP,Facebook Ads,2024-08-06,ERP
+504,Cliente_405,cliente405_dup@email.com,11919012171,SP,Facebook Ads,2023-07-05,ERP
+505,Cliente_139,cliente139_dup@email.com,11940520336,RJ,Facebook Ads,2023-11-04,ERP
+506,Cliente_355,cliente355_dup@email.com,11974780071,SP,Google Ads,2024-12-17,ERP
+507,Cliente_6,cliente6_dup@email.com,11968692799,SP,Google Ads,2024-05-29,ERP
+508,Cliente_23,cliente23_dup@email.com,11942045405,SP,Loja Física,2024-10-10,ERP
+509,Cliente_94,cliente94_dup@email.com,11985577054,MG,Facebook Ads,2024-07-01,ERP
+510,Cliente_346,cliente346_dup@email.com,11933864717,MG,Facebook Ads,2024-01-18,ERP
+511,Cliente_191,cliente191_dup@email.com,11942943005,SP,Facebook Ads,2023-02-19,ERP
+512,Cliente_18,cliente18_dup@email.com,11969434650,MG,Marketplace,2023-02-22,ERP
+513,Cliente_251,cliente251_dup@email.com,11997987256,SP,Google Ads,2024-12-10,ERP
+514,Cliente_473,cliente473_dup@email.com,11995557588,SP,Marketplace,2023-01-15,ERP
+515,Cliente_61,cliente61_dup@email.com,11918070765,RJ,Marketplace,2024-07-21,ERP
+516,Cliente_129,cliente129_dup@email.com,11911120062,SP,Google Ads,2023-11-08,ERP
+517,Cliente_176,cliente176_dup@email.com,11994364627,SP,Loja Física,2023-12-24,ERP
+518,Cliente_46,cliente46_dup@email.com,11955558403,RS,Facebook Ads,2024-05-05,ERP
+519,Cliente_430,cliente430_dup@email.com,11937288040,SP,Facebook Ads,2024-05-06,ERP
+520,Cliente_222,cliente222_dup@email.com,11947094860,MG,Google Ads,2024-06-12,ERP
+521,Cliente_178,cliente178_dup@email.com,11924154834,RJ,Facebook Ads,2023-07-28,ERP
+522,Cliente_309,cliente309_dup@email.com,11984681926,SC,Orgânico,2023-01-04,ERP
+523,Cliente_16,cliente16_dup@email.com,11920791295,SP,Google Ads,2024-11-13,ERP
+524,Cliente_493,cliente493_dup@email.com,11974701338,SP,Facebook Ads,2023-07-06,ERP
+525,Cliente_339,cliente339_dup@email.com,11963176926,RJ,Orgânico,2024-03-04,ERP
+526,Cliente_22,cliente22_dup@email.com,11947753496,SP,Facebook Ads,2023-11-28,ERP
+527,Cliente_57,cliente57_dup@email.com,11962048178,SP,Google Ads,2024-04-07,ERP
+528,Cliente_81,cliente81_dup@email.com,11982206980,BA,Orgânico,2023-08-06,ERP
+529,Cliente_462,cliente462_dup@email.com,11910355994,RS,Indicação,2024-07-07,ERP
+530,Cliente_198,cliente198_dup@email.com,11993363336,PE,Orgânico,2024-09-23,ERP
